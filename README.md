@@ -1,9 +1,9 @@
 # Olá eu sou o Lucas, tudo bem?👋
 
-- 🔭 Sou estágiario na área de Garantia de Qualidade e aspirante para Desenvolvedor Full-Stack;
+- 🔭 Sou estagiário na área de Garantia de Qualidade e aspirante para Desenvolvedor Full-Stack;
 - 🌱 Cursando superior em Analise e Desenvolvimento de Sistemas no Centro Universitário Senac;
-- 📚 Atualmente estudando Java, JavaScript, HTML e CSS, Metodologias Ageis e Automações de Testes;
-- ⚡ Sou um jovem apaixonado por tecnólogia, alguns pontos que me destaco é minha curiosidade e minha determinação!;
+- 📚 Atualmente estudando Java, JavaScript, HTML e CSS, Metodologias Ágeis e Automações de Testes;
+- ⚡ Sou um jovem apaixonado por tecnologia, alguns pontos que me destaco é minha curiosidade e minha determinação!
 
 ## Status:
 

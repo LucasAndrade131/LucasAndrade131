@@ -1,6 +1,6 @@
 # Olá eu sou o Lucas, tudo bem?👋
 
-- 🔭 Sou estagiário na área de T.I e aspirante para Desenvolvedor Full-Stack;
+- 🔭 Sou estagiário web e aspirante para Desenvolvedor Full-Stack;
 - 🌱 Cursando superior em Analise e Desenvolvimento de Sistemas no Centro Universitário Senac;
 - 📚 Atualmente estudando Java, POO e Banco de Dados;
 - 🚀 Futuramente pretendo estudar Spring Boot, Angular e Design Patterns;

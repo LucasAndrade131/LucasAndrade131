@@ -64,5 +64,9 @@
   <a href="mailto:lucas.andrade131@outlook.com" target="_blank"><img src=https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white></a>
   <a href="https://www.linkedin.com/in/lucas-silva-andrade" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://lucasandrade131.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
-
   </div>
+
+## Meus Principais Desafios e Contribuições:
+
+[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=elidianaandrade&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/elidianaandrade/dio-lab-open-source)
+[![Repo Faculdade](https://github-readme-stats.vercel.app/api/pin/?username=WilliamAraujo777&repo=PROJETO_LIVRARIA_PI&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/WilliamAraujo777/PROJETO_LIVRARIA_PI)
